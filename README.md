@@ -1,3 +1,3 @@
-# apigw.fireblocks.io
+# mail.yoti.com
 
 ## subdomain takeover by vivan
